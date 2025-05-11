@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\mahmoud\\onedrive\\desktop\\school-management-system-main\\school-management-system-main\\schoolmanagement\\controllers\\studentshomeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\controllers\\studentshomeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\mahmoud\\onedrive\\desktop\\school-management-system-main\\school-management-system-main\\schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\mahmoud\\onedrive\\desktop\\school-management-system-main\\school-management-system-main\\schoolmanagement\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\mahmoud\\onedrive\\desktop\\school-management-system-main\\school-management-system-main\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\mahmoud\\onedrive\\desktop\\school-management-system-main\\school-management-system-main\\schoolmanagement\\dtos\\adminstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B5B144-F2B0-46E7-A9C5-A8C3176F21B4}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\dtos\\adminstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:06:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminStatisticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\DTOs\\AdminStatisticsDto.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\DTOs\\AdminStatisticsDto.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\DTOs\\AdminStatisticsDto.cs",
+              "RelativeToolTip": "SchoolManagement\\DTOs\\AdminStatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAGAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:25:42.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Services\\AdminService.cs",
+              "RelativeToolTip": "SchoolManagement\\Services\\AdminService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:25:29.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsHomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Controllers\\StudentsHomeworkController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Controllers\\StudentsHomeworkController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Controllers\\StudentsHomeworkController.cs*",
+              "RelativeToolTip": "SchoolManagement\\Controllers\\StudentsHomeworkController.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:12:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\OneDrive\\Desktop\\School-Management-System-main\\School-Management-System-main\\SchoolManagement\\Program.cs",
+              "RelativeToolTip": "SchoolManagement\\Program.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:02:16.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
